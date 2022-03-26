@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @schultecrypto
+- 👀 I’m interested in crypto currencies.
+- 🌱 I’m currently learning smart contracts.
